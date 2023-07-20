@@ -1,4 +1,4 @@
 # setodaNote_hash_Writeup
 
-link↓
+link→
 https://ctfexh.setodanote.net
